@@ -1,6 +1,8 @@
 # BMI_Practice
 
 ### Visuals 
+![BMI](https://user-images.githubusercontent.com/55455793/70878318-dc8bb700-1f75-11ea-88e9-5a4baa25db50.jpeg)
+
 
 
 ### Description
